@@ -1,2 +1,27 @@
-# KeylistCraft
-KeylistCraft, a Python tool, swiftly creates password lists from user input. It offers viewing in the terminal or saving to a file. Ideal for security testing, it's user-friendly and open-source.
+# 🧩 Mini Projects Collection
+
+This repository is a collection of small, focused projects created to explore different areas of programming, scripting, and system utilities. Each project is self-contained and designed to solve a specific problem or demonstrate a particular concept.
+
+---
+
+## 📁 Structure
+
+Each project is organized in its own folder:
+
+/project-name/  
+├── main.py — Main script or executable file  
+├── README.md — Explanation and usage guide  
+└── other files... — Any additional scripts or assets
+
+---
+
+## 🔧 Technologies Used
+
+Projects may involve various technologies including:
+
+- Python (scripting, automation, CLI tools)
+- Linux (bash utilities, system interaction)
+- Networking tools (e.g., scanning, analysis)
+- Command-line interfaces and argument parsing
+
+---
